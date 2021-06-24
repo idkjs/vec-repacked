@@ -16,6 +16,5 @@
   "warnings": {
     "error" : "+101"
   },
-  "namespace": true,
   "refmt": "./node_modules/.bin/refmt"
 }
